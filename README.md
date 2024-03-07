@@ -14,7 +14,7 @@ Repository for students of the course of Videojuegos in 1st Bachillerato
 
 **🏦ClassNotes**🏦:
 ---
-[Notes](https://hackmd.io/bkNEipdiRXWUSzG0qm0zyQ?both)
+[Notes]([https://hackmd.io/bkNEipdiRXWUSzG0qm0zyQ?both](https://github.com/ahong2006/VideoGames/blob/main/Notes.md))
 
 
 ----------
