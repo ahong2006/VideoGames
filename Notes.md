@@ -33,10 +33,13 @@ The actions taken to add data to a blockchain are known as **transactions**. The
 
 
 In the case of Bitcoin, each Bitcoin unit is **fungible**. This means that one Bitcoin is fully interchangeable for another Bitcoin with no significant difference between them in terms of value or utility.
+<img width="721" alt="截屏2024-03-12 11 27 55" src="https://github.com/ahong2006/VideoGames/assets/124577520/58d1f93c-4215-492c-8699-e69f5339489d">
 
-![截屏2024-03-07 10.22.07](https://hackmd.io/_uploads/ryLuDWwap.png)
 
-**Mining** is the process of validating and processing cryptocurrency transactions by solving complex mathematical problems.![截屏2024-03-07 10.31.21](https://hackmd.io/_uploads/B1wdYWPTp.png)
+
+**Mining** is the process of validating and processing cryptocurrency transactions by solving complex mathematical problems.
+<img width="553" alt="截屏2024-03-12 11 28 22" src="https://github.com/ahong2006/VideoGames/assets/124577520/fe03326e-96c5-43b1-a7c8-4df289e3062d">
+
 
 
 1. **Validate Transactions:** Verify and validate the transactions to be processed.
