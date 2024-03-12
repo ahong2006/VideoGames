@@ -33,6 +33,9 @@ The actions taken to add data to a blockchain are known as **transactions**. The
 
 
 In the case of Bitcoin, each Bitcoin unit is **fungible**. This means that one Bitcoin is fully interchangeable for another Bitcoin with no significant difference between them in terms of value or utility.
+
+**Fungible**:It is explained in the dictionary as**“easy to exchange or trade for something else of the same type and value”**，and from an economic point of view, it means that he is an item and another item have the same economic value, for example, 100% pure gold and and another piece of gold of the same weight and the same purity, they have the same value.
+
 <img width="721" alt="截屏2024-03-12 11 27 55" src="https://github.com/ahong2006/VideoGames/assets/124577520/58d1f93c-4215-492c-8699-e69f5339489d">
 
 
