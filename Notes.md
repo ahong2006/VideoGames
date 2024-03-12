@@ -14,8 +14,10 @@
 ___
 
 The **NFT** are a scam, it is similar to cryptocurrencies, just like a euro has a value that has been previously given by a society. On the other hand, cryptocurrencies are a type of speculation, speculated to have a value in the future, not in the present but in the future. Passing cryptocurrencies to another person will mean that the transaction will be public, not as in a bank, which will be private. At the second only a total of 15 transactions can be made on the entire planet, the processor starts to solve a puzzle and puts them in a queue to make the transaction.
+<img width="657" alt="截屏2024-03-12 11 27 05" src="https://github.com/ahong2006/VideoGames/assets/124577520/966e03cc-5700-4946-a497-0cc76858e48f">
 
-![image](https://hackmd.io/_uploads/ryMEEWw6a.jpg)
+
+
 
 
 ### *BlockChain🚝( Blockchain.com )🚝*
