@@ -22,7 +22,7 @@ The **NFT** are a scam, it is similar to cryptocurrencies, just like a euro has 
 
 ### *BlockChain🚝( Blockchain.com )🚝*
 ___
-**Cryptocurrencies** are digital currencies that do not rely on a centralized national bank, but instead rely on speculation and incentives to determine their value. This makes cryptocurrencies extremely volatile, having experienced crashes and spikes.
+**Cryptocurrencies** ，it is a trading medium that uses cryptographic principles to secure transactions and control the creation of trading units.Cryptocurrencies are digital currencies that do not rely on a centralized national bank, but instead rely on speculation and incentives to determine their value. This makes cryptocurrencies extremely volatile, having experienced crashes and spikes.
 
 ![image alt](https://chinese.aljazeera.net/wp-content/uploads/2021/09/GettyImages-1248674199.jpg?resize=1200%2C675)
 
