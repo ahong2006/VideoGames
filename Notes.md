@@ -36,6 +36,9 @@ In Bitcoin's case, each unit is **fungible**. This means that a Bitcoin is fully
 
 **Fungible**:It is defined by the dictionary as **“easy to exchange or trade for something else of the same type and value”**，and from an economic point of view, it means this item and the other have the same economic value. For example, a bar of 100% pure gold and another piece of gold of the same weight and the same purity have the same value.
 
+**Extra:** While when I was searching for information, I found a very interesting thing, about fourteen years ago in 2010, a man in the United States used 10,000 bitcoins to buy two pizzas, and this amount of money is now hundreds of thousands of times, so he became a legend, but we can also see that the instability of the bitcoin as well as potential<img width="720" alt="截屏2024-03-12 21 31 58" src="https://github.com/ahong2006/VideoGames/assets/124577520/cf72db4d-1b5d-4e6c-839f-88ea4d49f0ce">
+
+
 <img width="721" alt="截屏2024-03-12 11 27 55" src="https://github.com/ahong2006/VideoGames/assets/124577520/58d1f93c-4215-492c-8699-e69f5339489d">
 
 
