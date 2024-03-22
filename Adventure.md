@@ -102,32 +102,42 @@ ___
 ![IMG_0980](https://github.com/ahong2006/VideoGames/assets/124577520/443eb39c-b096-4552-b38c-4d8f29f92307)
 
 JUEGO: FATE GRAND ORDER
+
 Propietario del copyright: TYPE-MOON
+
 Autor: Àngel Hong Chen
 ___
 ![IMG_0985](https://github.com/ahong2006/VideoGames/assets/124577520/9000bd47-0b02-48c2-af3f-f23233692f65)
 
 JUEGO: Tsukihime
+
 Propietario del copyright: TYPE-MOON
+
 Autor: Àngel Hong Chen
 ___
 
 ![IMG_0984](https://github.com/ahong2006/VideoGames/assets/124577520/8585797b-f77f-49fe-87e9-01efb38a1d44)
 
 JUEGO: Tsukihime
+
 Propietario del copyright: TYPE-MOON
+
 Autor: Àngel Hong Chen
 ___
 ![IMG_0986](https://github.com/ahong2006/VideoGames/assets/124577520/9d095440-64f3-4c16-93ba-c418bbe535c9)
 
 JUEGO: Tsukihime
+
 Propietario del copyright: TYPE-MOON
+
 Autor: Àngel Hong Chen
 ___
 ![IMG_0982](![IMG_0983](https://github.com/ahong2006/VideoGames/assets/124577520/63207753-aac5-41e2-b67e-5f2d6f024d5d)
 
 JUEGO: Tsukihime
+
 Propietario del copyright: TYPE-MOON
+
 Autor: Àngel Hong Chen
 ___
 
