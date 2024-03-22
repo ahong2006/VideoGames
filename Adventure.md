@@ -55,13 +55,15 @@ The beginning of the story is to lose contact with both parents of the boy was s
 **Chapter2** (Yin)
 
 After acquiring mysterious powers you flee the cave in fear, nervous you accidentally fall and thus lose your memory, waking up you are adopted by a relative and thus become an ordinary student. In an accidental encounter, you met the mysterious girl blade, but you were almost killed by her, which caused you to accidentally rampage and tear her to pieces.
+<img width="1163" alt="截屏2024-03-22 16 47 56" src="https://github.com/ahong2006/VideoGames/assets/124577520/8d29cf58-e89f-4d85-a245-6f3175c21fbd">
 
 
 **Chapter3** (Yin)
 
 The next day you feel that it was a dream, so you go to school as usual, and in the evening you see this woman in front of you again as if nothing had happened.
 "How are you going to take responsibility for killing me?" The pure white bloodsucker said so.
-Then you were suddenly surrounded by a group of bloodsuckers, and in order to escape, you activated your potential and ran away with her to a garden, where you found a library.
+Then you were suddenly surrounded by a group of bloodsuckers, and in order to escape, you activated your potential and ran away with her to a garden, where you found a<img width="1330" alt="截屏2024-03-22 16 49 04" src="https://github.com/ahong2006/VideoGames/assets/124577520/c5fc5fc7-2858-4df5-9c67-001a56389162">
+ library.
 
 **Chapter4** (Yin)
 
@@ -71,6 +73,8 @@ In the library you are guided by the library spirit to the forbidden land of the
 
 After gaining mysterious power, you you decided to get closer to the voice, you accidentally found out that he was actually the legendary King Arthur, where you received his guidance and had a preliminary understanding of the world, under his introduction you came to the mysterious Clock Tower to learn magic.
 Several years later you carried the task of killing demons to Edinburgh, after solving a demon, you came to a mysterious opera house, in which you solved the trouble for a mysterious girl, but she suddenly lost her mind and attacked you, just as you were on the verge of death when you suddenly went berserk, you tore the girl into pieces
+<img width="1208" alt="截屏2024-03-22 16 38 15" src="https://github.com/ahong2006/VideoGames/assets/124577520/1626b7ee-052b-4ae6-b6d9-a73b06955b09">
+
 
 
 **Chapter3** (Yan)
@@ -78,6 +82,7 @@ Several years later you carried the task of killing demons to Edinburgh, after s
 The next day, you think it's just a dream, you've been given a new identity by the organisation, so you go to go to school as you've been asked to do, and in the evening you see this woman appearing in front of you again, as if nothing had happened.
 "How are you going to take the blame for killing me?" The pure white bloodsucker says this.
 At this point, you were suddenly surrounded by a group of bloodsuckers, but you chose to fight side by side to eventually defeat them
+<img width="1149" alt="截屏2024-03-22 16 36 50" src="https://github.com/ahong2006/VideoGames/assets/124577520/354f4976-3e8f-4393-9f61-bfe4968a46a6">
 
 
 **Chapter4** (Yan)
@@ -85,7 +90,10 @@ At this point, you were suddenly surrounded by a group of bloodsuckers, but you 
 Today you met at the bottom of a bridge in the evening, and you were transported by a teleportation array to a mysterious garden, where you were guided by the spirit of the book to an ancient castle in search of the truth.
 After passing the trial of the guardians, you met the big boss behind the curtain, he was very strong, so you could do nothing to him, after an attack, the young girl was seriously injured to protect you, at this time in front of you there are two choices:
 Feed her your blood so that she can regain her strength, but as a price you will be turned into a vampire for the rest of your life without being able to bathe in sunlight.
-If you choose to respect her opinion, you will be seriously injured by the big boss, but at this time you will also storm to defeat him, as the price, although the girl was healed but forget you!
+If you choose to respect her opinion, you will be seriously injured by the big boss, but at this time you will also storm to defeat him, as the price, although
+ the girl was healed but forget you.
+ <img width="1369" alt="截屏2024-03-22 16 47 01" src="https://github.com/ahong2006/VideoGames/assets/124577520/c0ec4fb3-78af-4ae6-817a-2c8d02a9486d">
+ 
 
 IMAGE
 ---
