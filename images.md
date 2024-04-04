@@ -15,6 +15,7 @@
 
 
 ![IMG_0984](https://github.com/ahong2006/VideoGames/assets/124577520/f73e9cba-5da2-4c12-82a0-c70516adaa17)
+<img width="465" alt="截屏2024-04-04 22 56 02" src="https://github.com/ahong2006/VideoGames/assets/124577520/484c3288-15fd-413a-9a6e-a4bece8bee6f">
 
 
 
@@ -25,4 +26,3 @@
 ![](https://github.com/ahong2006/VideoGames/assets/124577520/1d812ede-aadd-4c02-a577-3a9192ad5027")
 
 
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoUDgkue86eNRYR8dkAH6SGXLMg2hH5vZkQjFv10Aa6w&s)
