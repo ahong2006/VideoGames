@@ -140,7 +140,7 @@ Propietario del copyright: TYPE-MOON
 
 Autor: Àngel Hong Chen
 ___
-![IMG_0982](![IMG_0983](https://github.com/ahong2006/VideoGames/assets/124577520/63207753-aac5-41e2-b67e-5f2d6f024d5d)
+![IMG_0982](https://github.com/ahong2006/VideoGames/assets/124577520/63207753-aac5-41e2-b67e-5f2d6f024d5d)
 
 JUEGO: Tsukihime
 
